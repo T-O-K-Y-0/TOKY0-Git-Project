@@ -3,7 +3,7 @@ from os import system as sys
 
 chars = "+-/*!&$#?=@<>abcdefghigklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ1234567890"
 
-lenght = int (input( "Passwords lenght: " ))
+lenght = int(input( "Passwords lenght: " ))
 password = ''
 
 for i in range( lenght ):
